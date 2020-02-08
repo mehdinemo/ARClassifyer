@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classification", "Classification\Classification.csproj", "{20C4187D-3C81-4F14-87C4-672815DDB88D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARCore", "ARCore\ARCore.csproj", "{6C5A42AB-A0F6-4DFD-8C18-078C36D4295E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C4187D-3C81-4F14-87C4-672815DDB88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C4187D-3C81-4F14-87C4-672815DDB88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C4187D-3C81-4F14-87C4-672815DDB88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C4187D-3C81-4F14-87C4-672815DDB88D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5A42AB-A0F6-4DFD-8C18-078C36D4295E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5A42AB-A0F6-4DFD-8C18-078C36D4295E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5A42AB-A0F6-4DFD-8C18-078C36D4295E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5A42AB-A0F6-4DFD-8C18-078C36D4295E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55C1FBDC-73B7-4AC4-9395-8E69BF828060}
+	EndGlobalSection
+EndGlobal
